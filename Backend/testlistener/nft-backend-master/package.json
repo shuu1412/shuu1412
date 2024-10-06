@@ -1,0 +1,23 @@
+{
+  "name": "nft-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/200lab-Education/nft-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/200lab-Education/nft-backend/issues"
+  },
+  "homepage": "https://github.com/200lab-Education/nft-backend#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "web3": "^1.7.1"
+  }
+}
