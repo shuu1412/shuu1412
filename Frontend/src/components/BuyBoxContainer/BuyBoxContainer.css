@@ -1,0 +1,326 @@
+.background {
+    background-image: url(../../images/banner/buyboxbanner2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 90vh;  /* responsive height */
+    opacity: 0.3;
+    filter: blur(1px);
+    -webkit-mask: linear-gradient(rgb(255, 255, 255), transparent);
+    position: absolute;
+    margin-top:80px;
+}
+
+.buyBoxContent {
+    margin-top:  150px;
+    margin-left: 350px;
+    margin-right: 350px;
+    position: absolute;
+}
+.content-box {
+    margin-left: 300px;
+    background-color: white;
+    border-radius: 10px;
+    border: 5px solid #D6A32E;
+    border-radius: 20px;
+    width: 550px;
+}
+.box {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.imgbox {
+    height: 320px;
+    width: 350px;
+    border: 5px solid #D6A32E;
+    border-radius: 20px;
+}
+
+.buttonBuyBox {
+    margin-left: 50px;
+    height: 23px;
+    width: 120px;
+    display: inline-flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    border-radius: 12px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    padding: 17px 24px;
+    background-color: #D6A32E;
+    border: 2px solid #D6A32E;
+    color: rgb(255, 255, 255);
+    text-decoration: none
+}
+
+.content-boxvip {
+    margin-left: 300px;
+    background-color: white;
+    border-radius: 10px;
+    border: 5px solid #D6A32E;
+    border-radius: 20px;
+    width: 550px;
+}
+.boxvip {
+    display: flex;
+    margin-bottom: 50px;
+}
+.imgboxvip {
+    height: 320px;
+    width: 350px;
+    border: 5px solid #D6A32E;
+    border-radius: 20px;
+}
+.box_infomation_buy_box {
+    padding: 0px;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.li-title {
+    padding: 0px;
+    text-align: left;
+}
+.title-box {
+    font-size: 30px;
+    font-weight: 1000;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.title-boxvip {
+    font-size: 30px;
+    font-weight: 1000;
+}
+
+.buttonBuyBoxVip {
+    margin-left: 50px;
+    height: 23px;
+    width: 120px;
+    display: inline-flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    border-radius: 12px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    padding: 17px 24px;
+    background-color: #D6A32E;
+    border: 2px solid #D6A32E;
+    color: rgb(255, 255, 255);
+    text-decoration: none
+}
+.buyBoxContainer {
+}
+
+
+.input-amount-box {
+    width: 50px;
+}
+
+.input-amount-buy {
+    margin-left: 20px;
+    display: flex;
+    height: 30px;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+    background-color: #D6A32E;
+    border-radius: 5px;
+    font-size: 19px;
+    font-weight: 550;
+}
+
+.deImcrement {
+    display: flex;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: none;
+    font-size: 23px;
+    background-color: #D6A32E;
+}
+.numberAmountBoxBuy {
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    border-right: 1px solid rgba(0,0,0,0.2);
+    border-left: 1px solid rgba(0,0,0,0.2);
+
+}
+
+.imcrement{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: none;
+    font-size: 20px;
+    background-color: #D6A32E;
+}
+
+.remaining {
+    margin-right: 10px;
+}
+
+.box-info-butom {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.text-content {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+.unboxNumber {
+    margin-left: 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.label_name_box {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.amount_data_user {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+}
+.input_name_content {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.remaining_container {
+    display: flex;
+}
+
+.number_remaining {
+    width: 80px;
+}
+.price_one_box_container {
+    display: flex;
+}
+.price_on_box {
+    margin-right: 10px;
+}
+
+.price_box_fetch {
+    width: 35px;
+}
+
+.price_of_box {
+    display: flex;
+    margin-left: 50px;
+}
+
+.price_of_box_title {
+    margin-right: 10px;
+}
+
+.totalprice_fetch {
+    width: 35px;
+}
+
+.modal_of_box {
+    width: 650px;
+    height:450px;
+    background-color: white;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom:auto;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 5px 7px 0 #c5c2c2;
+}
+
+.Overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: white ;
+}
+
+.buybox_modal_button {
+}
+.parent_buybox_header {
+    justify-content: center;
+    margin: 20px 0 20px 0
+}
+
+.imgbox_on_modal {
+    width: 180px;
+    border-radius: 5px;
+}
+
+.button_on_modal {
+    width: 130px;
+    height: 38px;
+    margin: 0 5px 0 5px;
+}
+
+.close_button {
+    color: red;
+}
+
+.buybox_modal_header {
+    margin: 40px 0 40px 0px;
+    font-size: 25px;
+    font-weight: 550;
+}
+
+.pending_container {
+    display: flex;
+    justify-content: center;
+}
+
+.error_container {
+    display: flex;
+    justify-content: center;
+}
+
+.success_container {
+    display: flex;
+    justify-content: center;
+}
+
+.text_question {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.text_Success {
+    color: greenyellow;
+}
+
+.text_error {
+    color: red;
+    display: flex;
+    justify-content:center;
+}
+
+.text_pending {
+    color: rgb(216, 159, 83);
+}

@@ -1,0 +1,164 @@
+.UsePlantFood{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: 3px solid greenyellow;
+    margin: 100px 350px 100px 350px;
+    border-radius: 10px;
+    box-shadow: 0 7px 7px 0 #c5c2c2;
+}
+
+.p-title {
+    font-weight:700;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.UsePlantFood-content {
+    margin-top: 50px;
+    display: flex;
+}
+
+.ul-plant {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font-size: 18px;
+}
+.li-plant {
+    margin-right: 20px;
+}
+
+.PlantProperties {
+    height: 300px;
+    width: 400px;
+}
+
+
+.plant-title {
+    font-size: 23px;
+    display: flex;
+    justify-content: center;
+    font-weight: 550;
+}
+.selection-plant {
+    margin-top: 27px;
+}
+.choose-tokenId {
+    margin-top: 10px;
+    display: flex;
+    margin: 0;
+    align-items: center;
+}
+
+.radio_button {
+    flex-direction:column;
+}
+
+.select-tokenid {
+    margin-left: 50px;
+    height: 30px;
+    width: 120px;
+}
+
+.usePlantFood {
+    margin-top: 30px;
+    margin-right: 30px;
+    height: 60px;
+    width: 200px;
+    display: inline-flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    border-radius: 12px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    padding: 17px 24px;
+    background-color: #96D96A;
+    border: 2px solid #96D96A;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    box-shadow: 0 5px 7px 0 #c5c2c2;
+}
+
+.plant-img {
+    height: 320px;
+    width: 350px;
+    margin-bottom: 20px ;
+    margin-left: 5px ;
+    margin-top: 10px;
+}
+
+.choose-tokenId-title {
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 10px;
+}
+.select_plant {
+    display: flex;
+    align-items: center;
+    height: 28px;
+    
+}
+
+.select-option {
+    font-weight: 550;
+}
+
+.label {
+    font-weight: 400;
+    font-size: 18px;
+}
+.thanh {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.root-img {
+    height: 350px;
+    width: 370px;
+    border-radius: 12px;
+    margin: 0 50px 0 50px;
+}
+
+.one_properties_plant {
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.plant_name_use_pf {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+.plant_name_content {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.plant_is_vip_icon {
+    width: 50px;
+}
+
+.plant_properties_of_use_pf {
+    width: 150px;
+}
+
+
+.properties_render_use_pf {
+    width: 70px;
+}
+
+.number_fetch_after_use_pf {
+    font-weight: 550;
+    color: rgb(147, 233, 19);
+}

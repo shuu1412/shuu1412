@@ -1,0 +1,164 @@
+.Account-container {
+    padding-top: 130px;
+    display: flex;
+    height: 87vh;
+    background-color: #FAFAFA ;
+  
+}
+
+.account_and_plants {
+    margin-left: 350px;
+    margin-right: 350px;
+    width: 1500px;
+    background-color: #ffff;
+    height: 830px;
+    border-radius: 15px;
+    box-shadow: 0 0px 7px 0 #c5c2c2;
+    display: flex;
+}
+
+.My-Platns {
+    width: 750px;
+    background-color: #ffff;
+    min-height: 120vh;
+    border-radius: 15px;
+    box-shadow: 0 5px 7px 0 #c5c2c2;
+}
+
+.My_Account_header {
+    margin-top: 50px;
+    font-size: 22px;
+    font-weight: 450;
+    margin-bottom: 30px;
+}
+
+.my_account {
+    margin-left: 70px;
+    width: 300px;
+}
+.plantfood_info_account {
+    margin: 10px 0 10px 0;
+    display: flex;
+}
+
+.marign_for_text {
+    margin-right: 30px;
+}
+
+.my_plants_header {
+    margin-top: 50px;
+    font-size: 22px;
+    font-weight: 450;
+    margin-bottom: 20px;
+}
+
+.button_green {
+    height: 20px;
+    width:20px;
+    background-color: #a6df80;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+.title_and_button {
+    display: flex;
+    align-items: center;
+
+}
+
+.correction {
+    width: 30px;
+    margin-left: 20px;
+}
+
+.cross {
+    width: 30px;
+    margin-left: 20px;
+}
+
+.imgOfOnePlant {
+    width: 190px;
+    height: 190px;
+    border-radius: 10px;
+    margin: 10px 10px 5px 10px;
+    box-shadow: 1px 1px 1px 1px #c5c2c2;
+}
+.a_plant {
+    display: flex;
+    border: 1px solid #a6df80;
+    width: 99%;
+    height: 210px;
+    background-color: #f0e796;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 5px 7px 0 #c5c2c2;
+}
+
+.a_propertiesPlant_of_user {
+    display: flex;
+    width: 250px;
+}
+
+.two_propertiesPlant_of_user {
+    display: flex;
+    margin-left: 40px;
+}
+    
+.properties_fetch {
+    font-size: 23px;
+    font-family: 'Open Sans';
+    color: #FBC121;
+    font-weight: 900;
+    -webkit-text-stroke: 0.5px black;
+}
+
+.my_plants_container {
+    max-height: 680px;
+    overflow: auto;
+    width: 800px;
+    /* overflow-y: hidden; Hide vertical scrollbar
+     */
+}
+
+.my_plants_container::-webkit-scrollbar {
+    width:0px;
+}
+
+.plant_name_title {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0 20px 0;
+}
+
+.parent_imgOfOnePlant {
+    display: flex;
+    justify-content: center;
+}
+
+.multi_properties {
+    width: 100%;
+    border-radius: 10px;
+    margin: 10px 10px 10px;
+    background-color: rgb(245, 245, 212);
+    box-shadow: 1px 1px 1px 1px #c5c2c2;
+}
+
+.icon_of_plant {
+    height: 35px;
+    width: 35px ;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+
+.display_flex {
+    display: flex;
+}
+
+.icon_vip_account {
+    width: 42px;
+    height: 42px;
+}
+
+.plant_vip_account {
+    margin-left: 70px;
+}

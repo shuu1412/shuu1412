@@ -1,0 +1,198 @@
+.backgound-Container {
+    background-image: url(../../images/banner/banner_san_sau.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 55vh;  /* responsive height */
+    opacity: 0.2;
+    filter: blur(1px);
+    -webkit-mask: linear-gradient(rgb(255, 255, 255), transparent);
+    position: absolute; 
+}
+.buyPlantFood { 
+    margin-right: 30px;
+    margin-top: 20px;
+    height: 60px;
+    width: 200px;
+    display: inline-flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    border-radius: 12px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    padding: 17px 24px;
+    background-color: #96D96A;
+    border: 2px solid #96D96A;
+    color: rgb(255, 255, 255);
+    text-decoration: none
+}
+.PlantFood {
+}
+.PlantFoodDemo {
+}
+
+.Container {
+    height: 55vh;
+}
+
+.Container-content {
+    display: flex;
+    margin-top: 130px;
+    margin-left: 350px;
+    margin-right: 350px;
+    height: 500px;
+    position: relative;
+    border: 2px solid greenyellow;
+    box-shadow: 0 5px 7px 0 #c5c2c2;
+    border-radius: 10px;
+    /* background-color: ; */
+}
+
+.ul-text {
+    padding: 0px;
+}
+
+.plantfood-title {
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.imgPlantFood {
+    width: 350px;
+    height: 300px;
+    /* border: 5px solid #96D96A; */
+    margin-left: 200px;
+    margin-top: 30px;
+    margin-right: 50px;
+    border-radius: 20px;
+    background-color: white;
+    /* box-shadow: 0 5px 7px 0 #c5c2c2; */
+}
+
+
+.PlantFood-text {
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+.tiltle {
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+    margin-top: 70px;
+}
+
+.input-amount-content {
+    margin-top: 30px;
+    display: flex;
+}
+
+.plantfood-detail {
+    font-size: 19px;
+}
+.input-box {
+    height: 20px;
+    width: 100px;
+}
+.input-amount {
+    font-size: 19px;
+    font-weight: 500;
+    margin-right: 20px;
+}
+
+.Price {
+    margin-left: 50px;
+    font-size: 19px;
+    font-weight: 500;
+}
+.remaining_plant_food_title {
+    font-size: 18px;
+    font-weight: 400;
+    margin-right: 15px;
+}
+
+.remaining_plant_food {
+    display: flex;
+    margin-top: 30px;
+    
+}
+
+.remaining_amount {
+    margin-right: 50px;
+    display: flex;
+}
+.price_of_one_plantfood {
+    display: flex;
+}
+.Price_one_plant_food {
+    margin-right: 15px;
+}
+
+.plantfood_input_buy {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.number_fetch {
+    font-size: 18px;
+    font-weight: 450;
+}
+
+.total_price_buy {
+    display: flex;
+    margin-left: 50px;
+}
+
+.price-of-plantfood {
+    margin-right: 15px;
+}
+
+.text_not_fetch {
+    font-size: 18px;
+    font-weight: 400;
+}
+.total_price_content {
+    width: 150px;
+    display: flex;
+}
+
+.input-amount-plantFood {
+    margin-left: 20px;
+    display: flex;
+    height: 30px;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+    background-color: #96D96A;
+    border-radius: 5px;
+    font-size: 19px;
+    font-weight: 550;
+}
+
+.deImcrement_plantFood {
+    display: flex;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: none;
+    font-size: 23px;
+    background-color: #96D96A;
+}
+
+.imcrement_plantFood {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5px;
+    margin-right: 5px;
+    border: none;
+    font-size: 20px;
+    background-color: #96D96A;
+}

@@ -1,0 +1,140 @@
+.background {
+    background-image: url(../../images/banner/buyboxbanner2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 90vh;  /* responsive height */
+    opacity: 0.3;
+    filter: blur(1px);
+    -webkit-mask: linear-gradient(rgb(255, 255, 255), transparent);
+    position: absolute;
+    margin-top: 80px;
+}
+
+.unBoxContent {
+    margin-top:  150px;
+    margin-left: 350px;
+    margin-right: 350px;
+    position: absolute;
+}
+.box {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.buttonUnBox {
+    margin-left: 50px;
+    height: 60px;
+    width: 175px;
+    display: inline-flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    border-radius: 12px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    padding: 17px 24px;
+    background-color: #D6A32E;
+    border: 2px solid #D6A32E;
+    color: rgb(255, 255, 255);
+    text-decoration: none
+}
+
+/* .content-boxvip {
+    margin-left: 300px;
+    margin-top: 60px;
+} */
+.boxvip {
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.imgbox_unbox {
+    height: 320px;
+    width: 350px;
+    border: 5px solid #D6A32E;
+    border-radius: 20px;
+    background-color: white;
+}
+.imgboxvip {
+    height: 320px;
+    width: 350px;
+    border: 5px solid #D6A32E;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.li-title {
+    text-align: left;
+}
+.title-box {
+    font-size: 30px;
+    font-weight: 1000;
+}
+
+.title-boxvip {
+    font-size: 30px;
+    font-weight: 1000;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.buttonUnBoxVip {
+    margin-left: 50px;
+    height: 60px;
+    width: 175px;
+    display: inline-flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    border-radius: 12px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    padding: 17px 24px;
+    background-color: #D6A32E;
+    border: 2px solid #D6A32E;
+    color: rgb(255, 255, 255);
+    text-decoration: none
+}
+
+.text-content {
+    font-weight: 400;
+}
+
+.amount-data {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    margin-left: 50px;
+}
+
+.amount_data_user {
+    margin-left: 50px;
+}
+
+.input_name_content {
+    margin-left: 50px;
+}
+
+.input_name_box {
+    margin-left: 15px;
+    width: 200px;
+    height: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    border: 2px solid #D6A32E;
+    border-radius: 5px;
+}
+
+.input_name_box_vip {
+    border: 2px solid #D6A32E;
+}
