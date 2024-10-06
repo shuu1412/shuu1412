@@ -1,0 +1,7 @@
+addmin address: 0x7E53B30974EFEd9fc2689980007c363c8550517e
+
+ALCHEMY_API_KEY : https://eth-goerli.g.alchemy.com/v2/jIhX_HzkajAFJKtCWilGOUeNLsdE-42d
+
+address of PvZ Coin: 0x6C4cfBC9C71A757A2599e632f0452936d69F87d4
+address of PlantvsZombieNFT: 0xE51a538b7DE2d9A883C01476d285700c4dD12374
+address of Box: 0xf69ff335f41d21f2CD042b5384751aB1D604f609
